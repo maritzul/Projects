@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">This is the Title</string>
+    <string name="article_subtitle"><b>And this is the Subtitle, but Not for Movies, Okay.</b></string>
+    <string name="article_text">So, we will be talking about titles. Just the word \'title\' in different languages, to be exact.
+                                \n
+                                \nIn Indonesian, title is <i>Judul</i>. How you read it is like <i>joodool</i>. Kurang lebih. Next, in Korean
+                                title is <i>표제</i> or you read it like <i>pyonjae</i>. In German, <i>Titel</i> is title, you read it like title
+                                but with so much German pronunciation. If you want to know title in more languages, you can open www.translate.google.com.</string>
+</resources>
